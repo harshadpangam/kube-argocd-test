@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   #repository: vishwacloudlab/jenkins-docker-lab
-  repository: harshadpangam/kube-argocd-test
+  repository: vishwacloudlab/pythonapp
   tag: v4-var
   pullPolicy: IfNotPresent
 
