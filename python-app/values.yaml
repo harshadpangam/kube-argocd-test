@@ -10,11 +10,11 @@ service:
   type: NodePort
   port: 8000
   targetPort: 8000
-  nodePort: 30016
+  nodePort: 30014
 
 resources: {}
 
-namespace: u16
+namespace: u14
 
 env:
   APP_PORT: 5000
